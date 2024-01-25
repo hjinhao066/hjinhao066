@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/hjinhao066" target="blank"><img src="https://img.shields.io/twitter/follow/hjinhao066?logo=twitter&style=for-the-badge" alt="hjinhao066" /></a> </p>
 
 - 🔭 I’m currently working on [takinai company](takin.ai)
+![9011706166832_ pic_hd](https://github.com/hjinhao066/hjinhao066/assets/112897963/77f0087f-013f-454f-9bc2-17a41c2f9bc7)
 
 - 🌱 I’m currently learning **Tofel and GRE**
 
